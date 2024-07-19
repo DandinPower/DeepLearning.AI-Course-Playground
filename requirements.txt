@@ -1,0 +1,10 @@
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-community
+langgraph
+tavily-python
+duckduckgo-search
+beautifulsoup4
+Pygments

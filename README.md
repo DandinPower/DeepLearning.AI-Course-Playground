@@ -55,7 +55,18 @@ TAVILY_API_KEY="YOUR_API_KEY"
 - [ ] [Knowledge Graphs for RAG](https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/)
 - [ ] [Preprocessing Unstructured Data for LLM Applications](https://www.deeplearning.ai/short-courses/preprocessing-unstructured-data-for-llm-applications/)
 
+## Learning
 
+- [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
+    - [ ] Introduction
+    - [ ] Build an Agent from Scratch
+    - [ ] LangGraph Components
+    - [ ] Agentic Search Tools
+    - [ ] AI Agents in LangGraph: Assignment
+    - [ ] AI Agents in LangGraph: Solution
+    - [ ] AI Agents in LangGraph: Next Steps
+    - [ ] AI Agents in LangGraph: Resources
+    
 
 
 
