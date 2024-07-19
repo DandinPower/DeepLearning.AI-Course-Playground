@@ -58,14 +58,13 @@ TAVILY_API_KEY="YOUR_API_KEY"
 ## Learning
 
 - [AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/)
-    - [ ] Introduction
-    - [ ] Build an Agent from Scratch
-    - [ ] LangGraph Components
-    - [ ] Agentic Search Tools
-    - [ ] AI Agents in LangGraph: Assignment
-    - [ ] AI Agents in LangGraph: Solution
-    - [ ] AI Agents in LangGraph: Next Steps
-    - [ ] AI Agents in LangGraph: Resources
+    - [x] Build an Agent from Scratch
+    - [x] LangGraph Components
+    - [x] Agentic Search Tools
+    - [ ] Persistence and Streaming 
+    - [ ] Human in the loop
+    - [ ] Essay Writer
+    - [ ] LangChain Resources
     
 
 
